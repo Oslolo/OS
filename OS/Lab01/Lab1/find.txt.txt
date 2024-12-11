@@ -1,0 +1,9 @@
+./Lab1/output/input.txt
+./Lab1/output/archivo2.txt
+./Lab1/output/archivo1.txt
+./Lab1/input.txt
+./Lab1/ls.txt
+./Lab1/head-tail.txt
+./foo.txt
+./find.mov.txt
+./find.txt.txt
